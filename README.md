@@ -5,3 +5,4 @@ Also includes an LDR for ambient light reactivity and compensation, 2 user butto
 Included firmware for a basic clock program, Features automatic and manual brightness adjustment, multiple time display formats.
 The firmware was written in C using the HAL. Program uses a non-blocking state machine.
 ![Nifty88 real image, hero shot](/images/1.jpg)
+![Nifty88 real image, hero shot](/images/2.jpg)
