@@ -4,3 +4,4 @@ Uses a 12V boost converter and high-side source drivers (TBD62783) to drive the 
 Also includes an LDR for ambient light reactivity and compensation, 2 user buttons, USB C for power, USB 2.0 FS support (pullup PA10 to enable).
 Included firmware for a basic clock program, Features automatic and manual brightness adjustment, multiple time display formats.
 The firmware was written in C using the HAL. Program uses a non-blocking state machine.
+![Nifty88 real image, hero shot](/images/1.jpg)
